@@ -1,3 +1,4 @@
+#c
 def compareTriplets(a, b):
     Ales=0
     bobe=0
